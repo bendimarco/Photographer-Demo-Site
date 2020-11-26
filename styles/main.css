@@ -307,7 +307,7 @@ body {
     z-index: 1;
     height: 90vh;
     width: 700px;
-    background: url(".../images/homepage-img.jpg");
+    background: url("../images/homepage-img.jpg");
     
 }
 
